@@ -6,6 +6,8 @@ def print_msg(msg):
 def change_code():
 	pass
 
+def remove_origin_code:
+	pass
 
 alerts = ["WARNING: [pool www]", "NOTICE: [pool www]"]
 
